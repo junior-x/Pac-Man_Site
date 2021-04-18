@@ -26,3 +26,22 @@
   font-family: 'Courier New', Courier, monospace, bold;
   color: rgb(40, 32, 44);
 }
+
+.About-Section {
+  background-color: rgb(40, 32, 44);
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.About-Text {
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  padding-top: 36px;
+  font-size: 90px;
+  height: 90vmin;
+}
+
+.Footer-List {
+  flex-direction: row;
+}
