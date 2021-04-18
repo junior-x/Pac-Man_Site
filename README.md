@@ -4,7 +4,7 @@ v 0.0.1
 
 *Getting some bones for the site, by now I only got the face for the site coding w/ ReactJs.App*
 
-![Image of Site](/src/assets/image/screen-v1.png)
+![Image of Site](/src/src/assets/image/screen-v1.png)
 
 ------
 
