@@ -1,8 +1,6 @@
 import headerTitle from "./src/assets/image/pac-man-headerlogo.png";
 import "./App.css";
 
-
-
 function App() {
   return (
     <>
